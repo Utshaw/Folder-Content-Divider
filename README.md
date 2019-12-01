@@ -2,7 +2,7 @@
 Divides all the files inside a directory and create sub-directory for each file division. 
 
 ## Intro
-This program converts this
+This program converts this (dummy folder with x number of files)
 ```
 ├── dummy
 │   ├── 0.txt
@@ -18,7 +18,7 @@ This program converts this
 │   ├── ...txt
 │   ├── 212.txt
 ```
-into this
+into this (dummy-y sub directory under dummy  each containing x/3 files)
 ```
 ├── dummy
 │   ├── dummy_1
