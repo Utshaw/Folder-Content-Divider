@@ -1,4 +1,4 @@
-# Folder Content Divider ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+# Directory Content Divider ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 Divides all the files inside a directory and create sub-directory for each file division. 
 
 ## Intro
